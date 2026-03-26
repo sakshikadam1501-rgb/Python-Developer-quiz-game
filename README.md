@@ -7,11 +7,17 @@ Each time the quiz starts, a random set of 30 questions is displayed along with 
 
 🚀 Features
 🎯 Random question selection every time
+
 ⏱ 30-minute timer with auto-submit
+
 🔤 Multiple-choice answer system (A / B / C / D)
+
 📊 Score, percentage, and performance grade
+
 🎨 Colorful and interactive terminal interface
+
 🔁 Replay option for continuous practice
+
 💡 Useful for Python interview preparation
 
 🛠 Technologies Used
